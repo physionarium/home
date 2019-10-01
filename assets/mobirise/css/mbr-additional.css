@@ -1291,6 +1291,51 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 H1 {
   text-align: right;
 }
+.cid-rDGb8SfauN {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rDGb8SfauN .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rDGb8SfauN .formoid {
+  margin: auto;
+}
+.cid-rDGb8SfauN .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rDGb8SfauN .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rDGb8SfauN a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rDGb8SfauN a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rDGb8SfauN .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rDGb8SfauN .form-group,
+  .cid-rDGb8SfauN .input-group-btn,
+  .cid-rDGb8SfauN .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rDGb8SfauN .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-rCP5oN0hrQ {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -5992,8 +6037,8 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rDC5biVwGr {
-  padding-top: 15px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #333333;
 }
 .cid-rDC5biVwGr .mbr-text,
@@ -6005,47 +6050,6 @@ section.lazy-placeholder:after {
 }
 .cid-rDC5biVwGr .mbr-text {
   color: #ffffff;
-}
-.cid-rDC5bjdKPG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rDC5bjdKPG h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rDC5bjdKPG p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rDC5bjdKPG .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rDC5bjdKPG .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rDC5bjdKPG .mbr-text {
-  color: #767676;
-}
-.cid-rDC5bjdKPG .card-wrapper {
-  height: 100%;
-  background: #ffffff;
-}
-.cid-rDC5bjdKPG .card-wrapper .card-box {
-  padding: 0 2rem 2rem;
-}
-@media (max-width: 767px) {
-  .cid-rDC5bjdKPG .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rDC5bjdKPG .card-title {
-  text-align: center;
 }
 .cid-rDC5bkGVy4 {
   padding-top: 30px;
